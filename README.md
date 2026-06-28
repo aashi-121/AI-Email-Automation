@@ -374,7 +374,7 @@ The demo includes:
 - Thread View
 - Analytics Dashboard
 - Knowledge Base
-- Settings Module
+
 
 ---
 
@@ -385,6 +385,4 @@ The demo includes:
 **Aashi Sharma**
 
 
-- PostgreSQL
-- Qdrant
-- Ollama
+
